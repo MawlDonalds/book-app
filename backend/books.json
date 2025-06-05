@@ -1,0 +1,84 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "cover": "https://covers.openlibrary.org/b/id/12749894-L.jpg",
+      "rating": 4.2,
+      "pages": 180,
+      "genre": "Classic",
+      "status": "read"
+    },
+    {
+      "id": 2,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "cover": "https://covers.openlibrary.org/b/id/12749895-L.jpg",
+      "rating": 4.8,
+      "pages": 376,
+      "genre": "Fiction",
+      "status": "want-to-read"
+    },
+    {
+      "id": 3,
+      "title": "1984",
+      "author": "George Orwell",
+      "cover": "https://covers.openlibrary.org/b/id/12749896-L.jpg",
+      "rating": 4.6,
+      "pages": 328,
+      "genre": "Dystopian",
+      "status": "reading"
+    },
+    {
+      "id": 4,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "cover": "https://covers.openlibrary.org/b/id/12749897-L.jpg",
+      "rating": 4.4,
+      "pages": 432,
+      "genre": "Romance",
+      "status": "want-to-read"
+    },
+    {
+      "id": 5,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "cover": "https://covers.openlibrary.org/b/id/12749898-L.jpg",
+      "rating": 3.8,
+      "pages": 277,
+      "genre": "Coming-of-age",
+      "status": "reading"
+    },
+    {
+      "id": 6,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "cover": "https://covers.openlibrary.org/b/id/12749899-L.jpg",
+      "rating": 4.7,
+      "pages": 309,
+      "genre": "Fantasy",
+      "status": "read"
+    },
+    {
+      "id": 7,
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "cover": "https://covers.openlibrary.org/b/id/12749900-L.jpg",
+      "rating": 4.9,
+      "pages": 1216,
+      "genre": "Fantasy",
+      "status": "want-to-read"
+    },
+    {
+      "id": 8,
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "cover": "https://covers.openlibrary.org/b/id/12749901-L.jpg",
+      "rating": 4.3,
+      "pages": 688,
+      "genre": "Sci-Fi",
+      "status": "reading"
+    }
+  ]
+}
