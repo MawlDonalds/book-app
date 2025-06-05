@@ -1,50 +1,13 @@
-# Book App
-For Fulfilling CNT Assessment
+# book-app
+Untuk Memenuhi Assesment CNT
 
-## Role: Fullstack Developer
-This is a book library application built with React, TypeScript, and Flask that allows users to browse books, view book details, and manage their reading progress.
+# Task yang dikerjakan
+1. Implement filter for Library > Browse page by ratingand status
+2. Implement Add Detail Page book
+3. Implement Update status (read, Reading, Want To Read) in Detail page book
 
-## Features
-1.  Browse books with a list layout
-2.  implement Filter books by status and rating
-3.  Book details page with status management (read, reading, want-to-read)
-4.  Responsive design with a mobile-like screen layout
-5.  CORS-enabled API for cross-origin requests
-
-## Tech Stack
-### Frontend
-- React
-- TypeScript
-- Tailwind CSS
-- React Router DOM
-- Lucide Icons
-
-### Backend
-- Flask
-- JSON file storage
-
-## How to Run
-1. Clone the repository:
-   ```bash
-# Install frontend dependencies
-cd frontend
-npm install
-
-# Install backend dependencies
-cd ../backend
-npm install
-```
-
-3. Start the development servers:
-```bash
-# Start backend server (from backend directory)
-npm run dev
-
-# Start frontend development server (from frontend directory)
-npm run dev
-```
-
-4. Open your browser and navigate to `http://localhost:8080`
-
-
-
+# File yang ditambahkan dan diedit
+1. app.py
+2. BookDetail.tsx
+3. BrowseLibrary.tsx
+4. App.tsx
