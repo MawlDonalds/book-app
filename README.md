@@ -5,11 +5,11 @@ For Fulfilling CNT Assessment
 This is a book library application built with React, TypeScript, and Flask that allows users to browse books, view book details, and manage their reading progress.
 
 ## Features
-- Browse books with a list layout
-- Filter books by genre, search by title/author, filter by status and rating
-- Book details page with status management (read, reading, want-to-read)
-- Responsive design with a mobile-like screen layout
-- CORS-enabled API for cross-origin requests
+1.  Browse books with a list layout
+2.  implement Filter books by status and rating
+3.  Book details page with status management (read, reading, want-to-read)
+4.  Responsive design with a mobile-like screen layout
+5.  CORS-enabled API for cross-origin requests
 
 ## Tech Stack
 ### Frontend
@@ -26,5 +26,25 @@ This is a book library application built with React, TypeScript, and Flask that 
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/book-app.git
-   cd book-app
+# Install frontend dependencies
+cd frontend
+npm install
+
+# Install backend dependencies
+cd ../backend
+npm install
+```
+
+3. Start the development servers:
+```bash
+# Start backend server (from backend directory)
+npm run dev
+
+# Start frontend development server (from frontend directory)
+npm run dev
+```
+
+4. Open your browser and navigate to `http://localhost:8080`
+
+
+
